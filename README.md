@@ -33,18 +33,10 @@ Junior Business Analyst & Data Specialist | AI & Data-Driven Decision Making
 LazyDeveloper TechEd Pvt. Ltd. *(Mar 2025 – Present)*  
 📍 Mumbai  
 
-- Worked on 3+ live projects across multiple domains  
+- Worked on projects across multiple domains  
 - Translated business requirements into functional documentation (BRD/FRD)  
 - Collaborated with stakeholders and dev teams in Agile sprints  
 - Built dashboards and reports to support decision-making  
-
----
-
-### Data Analyst Trainee  
-JSpiders, Thane *(Jan 2025 – Feb 2025)*  
-
-- Hands-on training in SQL, Excel, and Power BI  
-- Built data reports and performed exploratory analysis  
 
 ---
 
